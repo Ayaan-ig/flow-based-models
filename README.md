@@ -9,3 +9,5 @@ This project is a Python-based collection of implementations for Flow-Based Gene
 ### 3.Glow (Generative Flow with Invertible 1x1 Convolutions)
 
 ## References
+
+NICE : https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/blob/main/NICE_Non_linear_Independent_Components_Estimation/NICE.py
