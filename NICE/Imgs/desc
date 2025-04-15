@@ -1,1 +1,4 @@
-These are the samples from our experiments
+These are the samples from our experiments. It has 4 images:
+1.Generated cifar-10 cats images
+2.Generated celeba images
+3.Generated MNIST
